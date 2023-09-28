@@ -24,6 +24,7 @@ public class Pirate {
         this.age = age;
     }
 
+
     public Pirate(){} // You need to have empty constructor in model in SPRING!!
 
     public Long getId() {
