@@ -1,0 +1,2 @@
+ALTER TABLE cloths
+ADD COLUMN size STRING
